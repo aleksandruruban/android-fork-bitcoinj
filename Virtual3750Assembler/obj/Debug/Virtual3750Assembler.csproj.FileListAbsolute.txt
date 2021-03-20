@@ -1,0 +1,14 @@
+C:\Code\CSC3750\Virtual3750Assembler\Virtual3750Assembler\bin\Debug\Virtual3750Assembler.exe.config
+C:\Code\CSC3750\Virtual3750Assembler\Virtual3750Assembler\bin\Debug\Virtual3750Assembler.exe
+C:\Code\CSC3750\Virtual3750Assembler\Virtual3750Assembler\bin\Debug\Virtual3750Assembler.pdb
+C:\Code\CSC3750\Virtual3750Assembler\Virtual3750Assembler\obj\Debug\Virtual3750Assembler.csprojAssemblyReference.cache
+C:\Code\CSC3750\Virtual3750Assembler\Virtual3750Assembler\obj\Debug\Virtual3750Assembler.csproj.CoreCompileInputs.cache
+C:\Code\CSC3750\Virtual3750Assembler\Virtual3750Assembler\obj\Debug\Virtual3750Assembler.exe
+C:\Code\CSC3750\Virtual3750Assembler\Virtual3750Assembler\obj\Debug\Virtual3750Assembler.pdb
+C:\code\winter-21\csc3750-cao\Virtual3750Assembler\Virtual3750Assembler\Virtual3750Assembler\bin\Debug\Virtual3750Assembler.exe.config
+C:\code\winter-21\csc3750-cao\Virtual3750Assembler\Virtual3750Assembler\Virtual3750Assembler\bin\Debug\Virtual3750Assembler.exe
+C:\code\winter-21\csc3750-cao\Virtual3750Assembler\Virtual3750Assembler\Virtual3750Assembler\bin\Debug\Virtual3750Assembler.pdb
+C:\code\winter-21\csc3750-cao\Virtual3750Assembler\Virtual3750Assembler\Virtual3750Assembler\obj\Debug\Virtual3750Assembler.csprojAssemblyReference.cache
+C:\code\winter-21\csc3750-cao\Virtual3750Assembler\Virtual3750Assembler\Virtual3750Assembler\obj\Debug\Virtual3750Assembler.csproj.CoreCompileInputs.cache
+C:\code\winter-21\csc3750-cao\Virtual3750Assembler\Virtual3750Assembler\Virtual3750Assembler\obj\Debug\Virtual3750Assembler.exe
+C:\code\winter-21\csc3750-cao\Virtual3750Assembler\Virtual3750Assembler\Virtual3750Assembler\obj\Debug\Virtual3750Assembler.pdb
